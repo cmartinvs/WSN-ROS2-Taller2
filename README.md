@@ -141,7 +141,7 @@ Ventajas: edición directa desde tu IDE del host, persistencia de gráficos y re
 ## 📚 Créditos
 
 **Carlos Martín Vinces Segovia**  
-Escuela Superior Politécnica del Litoral (ESPOL) – DEET  
+Facultad de Ingeniería - Universidad de Cuenca
 Materia: Redes de Sensores
 
 ---
